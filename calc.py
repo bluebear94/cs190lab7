@@ -33,7 +33,7 @@ def mult(a, b):
 def div(a, b):
     return a / b
 
-def exp(a, b)
+def exp(a, b):
 	return a ** b
 # Modulus function
 # a -- dividend
